@@ -30,7 +30,7 @@ To build the ATTiny826 firmware, open the project in Microchip Studio. Build the
 | # | Components | Recommended models | Footprint | Quantity |
 | --- | --- | --- | --- | --- |
 | 1 | PCB | Recommended two-layer PCB board of 1.6 mm thickness | | 1 |
-| 2 | U1 | 74LS148 | SOIC-16, 3.9x9.9mm, pitch: 1.27mm | 1 |
+| 2 | U1 | SN74LS148 | SOIC-16, 3.9x9.9mm, pitch: 1.27mm | 1 |
 | 3 | U2 | ATtiny826 | SOIC-20, 7.5x12.8mm, pitch: 1.27mm | 1 |
 | 4 | C1, C4 | Any 1uF 50V SMD capacitor | 0603 (1608 metric) | 2 |
 | 5 | C2 | Any 10nF 50V SMD capacitor | 0603 (1608 metric) | 1 |
@@ -49,7 +49,7 @@ To build the ATTiny826 firmware, open the project in Microchip Studio. Build the
 
 ## Documentation
 
-For more detailed information about the board and the I2C protocol, please visit the [project page]().
+For more detailed information about the board and the I2C protocol, please visit the [project page](https://fibstack.com/projects/stepper-motor-controller/).
 
 ## License Information
 This product is open source!
